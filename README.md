@@ -16,6 +16,10 @@ This is a sample GUI-based Python application for generating `.infoscava` plugin
 - Automatically base64-encodes the Python analysis function into the plugin file
 - Provides a GUI to input metadata, select executables, and customize arguments
 
+## Screenshot
+
+![ExifTool Screenshot](exiftool.png)
+
 ## License
 
 This sample code is licensed under the **MIT License**.
