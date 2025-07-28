@@ -2,6 +2,12 @@
 
 This is a sample GUI-based Python application for generating `.infoscava` plugin files for the **Infoscava** analysis framework.
 
+## Updates
+
+## alpha-A-V-0.7.0.1
+
+- Added better formatting.(not fully tested)
+
 ## Features
 
 - Allows creating plugins for tools like:
